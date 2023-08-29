@@ -39,7 +39,7 @@ Each goal pertains to a specific target color.
 
 ## How to Play
 
-1. Start the game to get a randomly generated board and goal.
+1. Start the game to get a randomly generated board and goal (navigate to `src/game/BlockGame.java` and build + run the file).
 2. Use the described moves to achieve your goal within a set number of turns.
 3. Score is calculated based on the chosen goal and the current state of the board.
 
